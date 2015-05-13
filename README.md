@@ -1,4 +1,4 @@
-Local storage (gridFS_ Provider for Orion Filesystem
+Local storage (gridFS) Provider for Orion Filesystem
 =====================================================
 
 ## Installation
