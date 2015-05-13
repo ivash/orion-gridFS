@@ -1,7 +1,8 @@
 Package.describe({
   name: 'brightbind:orion-gridfs',
   summary: 'Local storage (with gridFS) for orion:filesystem',
-  version: '0.1.0'
+  version: '0.1.0',
+  git: 'https://github.com/brightbind/orion-gridFS'
 });
 
 Package.onUse(function(api) {
